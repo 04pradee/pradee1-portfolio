@@ -1,0 +1,13 @@
+body{
+    padding: 40px;
+    background-color: rgb(242, 245, 247);
+    
+}
+h1{
+    padding-left: 55px;
+    color: orange;
+}
+header{
+    font-size: large;
+    font-weight: bold;
+}
